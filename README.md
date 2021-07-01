@@ -1,6 +1,4 @@
-# Action Nationale de Formation Julia Frejus 2021
-
-## Projets Hackathon
+# Projets Hackathon : Action Nationale de Formation Julia Frejus 2021
 
 - Conversion de codes matlab en aeroacoustique numérique.
 - Solveur de neutronique pour des géométries hexagonales (2D).
