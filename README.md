@@ -1,4 +1,4 @@
-# Julia Frejus 2021
+# Julia Fréjus 2021
 
 Projets Hackathon de l'ANF Julia
 
