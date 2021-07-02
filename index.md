@@ -3,7 +3,7 @@
 ## Liste des projets du hackathon
 
 - Conversion de codes matlab en aeroacoustique numérique.
-- Solveur de neutronique pour des géométries hexagonales.
+- Traduction depuis Python d'un solveur de neutronique pour des géométries hexagonales.
 - Collection d'intégrateurs géométriques.
 - Traduction d'un noyau de simulation de transition de phase de matériau écrit en C.
 - Passage d'un code LBM en Julia.
