@@ -1,5 +1,13 @@
 # Action Nationale de Formation Julia Fréjus 2021
 
+## Installation des logiciels nécessaires
+
+- [Julia](https://julialang.org/downloads/) 
+    + Pour MacOS je conseille d'installer [Homebrew](https://brew.sh/index_fr) puis dans un terminal: ``brew install julia``
+    + Pour Linux l'utilitaire [jill](https://github.com/abelsiqueira/jill) est pratique.
+- [Julia in VS Code](https://www.julia-vscode.org/docs/dev/gettingstarted/#Installation-and-Configuration-1)
+- Installer la liste de packages en exécutant [ce script](setup.jl): ``julia setup.jl``
+
 ## Liste des projets du hackathon
 
 - Conversion de codes matlab en aeroacoustique numérique.
